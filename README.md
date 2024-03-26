@@ -35,7 +35,7 @@ tar xvfj nvbit-Linux-x86_64-1.5.5.tar.bz2
 cd nvbit_release/tools/
 
 # NVbitPERfi 
-git clone https://github.com/divadnauj-GB/nvbitPERfi.git
+git clone https://github.com/GiuseppeEsposito98/nvbitPERfi.git
 cd nvbitPERfi
 find . -name "*.sh" | xargs chmod +x
 
